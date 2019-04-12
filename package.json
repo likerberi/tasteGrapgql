@@ -15,10 +15,13 @@
     "axios": "^0.18.0",
     "concurrently": "^4.1.0",
     "cors": "^2.8.5",
+    "create-react-context": "^0.2.3",
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
     "graphql": "^14.2.1",
-    "react-fragment": "^1.0.0"
+    "react": "^16.8.6",
+    "react-fragment": "^1.0.0",
+    "react-router-dom": "^5.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
